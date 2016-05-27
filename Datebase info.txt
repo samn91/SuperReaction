@@ -1,0 +1,3 @@
+		$DB_Username="superre1_admin";
+		$DB_Password="CVM]laC3&im$";
+		$DB_Name="superre1_database";

@@ -1,0 +1,74 @@
+
+.zoom { 
+   /* width:293px; 
+    height:170px;
+    */
+	
+	overflow:hidden;
+	display:block; 
+    position:relative; 
+    border:2px solid #ddd; 
+    background:#fff url(../Icon/loader.gif) no-repeat center;
+}
+
+div.zoomOverlay:hover{
+	/*display:none;
+*/
+
+}
+
+
+div.zoomOverlay
+ {
+	/*width:293px; 
+    height:170px;*/
+	position:absolute;
+	top:0; left:0;
+	bottom:0; right:0;
+	/*opacity:.3;*/
+	display:block;
+	background-image:url(../Icon/zoom.png);
+	background-color:black;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+div.loader {
+	position:absolute;
+	border: 1px solid #ccc;
+	top:0; left:0;
+	bottom:0; right:0;
+	display:block;
+	background: url("../Icon/loader.gif") no-repeat center center;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

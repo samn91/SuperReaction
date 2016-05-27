@@ -1,0 +1,48 @@
+h1{
+ margin:0 50px 10px 50px;
+ color: #000000;
+ border-bottom:solid 1px #CCCCCC;
+}
+h2.jump{
+text-align:center;
+  border-bottom:solid 1px #CCCCCC;
+}
+h2{
+ margin:0px;
+ color: #000000;
+ 
+}
+h3{
+ margin:0px;
+ color: #000000;
+}
+a.jump{
+	margin:2px;
+}
+div.top
+{
+	width:64px;
+	height:64px;
+	right:5%;
+	position:fixed;
+	font-size:25px;
+	background-image:url("../Icon/top-green.ico");
+}
+div.top:hover
+{
+	background-image:url("../Icon/top-orange.ico");
+}
+td.alphheader
+{
+	border-bottom:solid 1px #ccc;
+}
+table{
+margin:	0 50px 75px 50px;
+line-height: 26px;
+font-size:100%;
+font-size:18px;
+}
+td{
+margin:	0px;
+padding:15px;
+}

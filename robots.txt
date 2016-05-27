@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: ~about.html
+Disallow: ~Tags.php
+Disallow: ~index.php
